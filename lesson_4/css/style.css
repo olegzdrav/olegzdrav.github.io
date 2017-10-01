@@ -1,0 +1,31 @@
+h1{
+ 	text-align: center;
+ 	border: 2px solid 	#D2B48C;
+ }
+ .ogl {
+ 	text-align: center;
+ }
+ .text{
+ 	color: 	#A52A2A;
+ 	text-align: center;
+ }  
+ .header{
+ 	text-transform: uppercase;
+ 	color: blue;
+ }
+ #block-2{
+ 	text-align: justify;
+ 	font-style: italic;
+ 	font-size: 20px;
+ }
+ #text-1{
+ 	color: blue;
+ }
+ .footer{
+ 	background: #FAEBD7  0 0 no-repeat;
+ 	color: 	#800000;
+ 	text-decoration: underline;
+ }
+ .span{
+ 	background-color: #BC8F8F;
+ 	 }
