@@ -1,0 +1,17 @@
+*{
+ 	box-sizing: border-box;	
+ }
+ .box{
+   height: 400px;
+ 	 width: 300px;
+   padding: 20px 30px 20px 30px;
+ 	 border: 2px solid #545454;
+ 	 margin-top: 250px;
+ 	 margin-bottom: 50px;
+ 	 display: inline-block; 
+	 left: 50%;
+   down: 50%;
+	 margin-left: -150px;
+	 position: absolute; 
+    overflow: auto;
+ }
