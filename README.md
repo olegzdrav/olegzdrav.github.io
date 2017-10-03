@@ -18,3 +18,5 @@
 [Урок 11](https://olegzdrav.github.io/lesson_11/ "моя домашка 11") - Работа со Сниппетами
 
 [Урок 12](https://olegzdrav.github.io/lesson_12/ "моя домашка 12") - Рабта с репозиторием GitHub
+
+[Урок 13](https://olegzdrav.github.io/lesson_13/ "моя домашка 13") - Работа с PerfectPixel
