@@ -22,3 +22,5 @@
 [Урок 13](https://olegzdrav.github.io/lesson_13/ "моя домашка 13") - Работа с PerfectPixel
 
 [Урок 14](https://olegzdrav.github.io/lesson_14/ "моя домашка 14") - Практика верстка шапки сайта
+
+[Урок 14_1](https://olegzdrav.github.io/lesson_14_1/ "моя домашка 14_1") - Работа со шрифтами
