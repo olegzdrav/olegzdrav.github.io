@@ -29,3 +29,4 @@
 
 [Урок 15](https://olegzdrav.github.io/lesson_15/ "моя домашка 15") - Псевдоклассы и псевдоэлементы
 
+[Урок 16](https://olegzdrav.github.io/lesson_16/ "моя домашка 16") - Слайдет на fotorama
