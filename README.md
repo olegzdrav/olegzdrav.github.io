@@ -31,6 +31,8 @@
 
 [Урок 15_3](https://olegzdrav.github.io/lesson15_3/ "моя домашка 15_3") - Практика-3 Адаптивность, эффекты при наведении
 
+[Урок 15_4](https://olegzdrav.github.io/lesson15_3/ "моя домашка 15_4") - Практика-4 Слайдер Slik адаптивность
+
 [Урок 16](https://olegzdrav.github.io/lesson_16/ "моя домашка 16") - Слайдер на fotorama
 
 [Урок 17](https://olegzdrav.github.io/lesson_17/ "моя домашка 17") - Всплывающие окна
