@@ -29,8 +29,10 @@
 
 [Урок 15](https://olegzdrav.github.io/lesson_15/ "моя домашка 15") - Псевдоклассы и псевдоэлементы
 
+[Урок 15_3](https://olegzdrav.github.io/lesson_15_3/ "моя домашка 15_3") - Практика-3 Адаптивность первого экрана
+
 [Урок 16](https://olegzdrav.github.io/lesson_16/ "моя домашка 16") - Слайдер на fotorama
 
 [Урок 17](https://olegzdrav.github.io/lesson_17/ "моя домашка 17") - Всплывающие окна
 
-[Урок 15_3](https://olegzdrav.github.io/lesson_15_3/ "моя домашка 15_3") - Практика-3 Адаптивность первого экрана
+
