@@ -21,14 +21,16 @@
 
 [Урок 13](https://olegzdrav.github.io/lesson_13/ "моя домашка 13") - Работа с PerfectPixel
 
-[Урок 14](https://olegzdrav.github.io/lesson_14/ "моя домашка 14") - Практика верстка шапки сайта
+[Урок 14](https://olegzdrav.github.io/lesson_14/ "моя домашка 14") - Практика-1 верстка шапки сайта
 
 [Урок 14_1](https://olegzdrav.github.io/lesson_14_1/ "моя домашка 14_1") - Работа со шрифтами
 
-[Урок 14_2](https://olegzdrav.github.io/lesson_14_2/ "моя домашка 14_2") - Практика 2 подключ шрифтов, верстка main
+[Урок 14_2](https://olegzdrav.github.io/lesson_14_2/ "моя домашка 14_2") - Практика-2 подключ шрифтов, верстка main
 
 [Урок 15](https://olegzdrav.github.io/lesson_15/ "моя домашка 15") - Псевдоклассы и псевдоэлементы
 
 [Урок 16](https://olegzdrav.github.io/lesson_16/ "моя домашка 16") - Слайдер на fotorama
 
 [Урок 17](https://olegzdrav.github.io/lesson_17/ "моя домашка 17") - Всплывающие окна
+
+[Урок 15_3](https://olegzdrav.github.io/lesson_15_3/ "моя домашка 15_3") - Практика-3 Адаптивность первого экрана
