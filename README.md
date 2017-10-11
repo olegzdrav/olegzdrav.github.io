@@ -39,4 +39,6 @@
 
 [Урок 17](https://olegzdrav.github.io/lesson_17/ "моя домашка 17") - Всплывающие окна
 
+[Урок 18_2](https://olegzdrav.github.io/lesson_18_2/ "моя домашка 18_2") - Аккордеон
+
 
