@@ -43,4 +43,4 @@
 
 [Урок 18_2](https://olegzdrav.github.io/lesson_18_2/ "моя домашка 18_2") - Аккордеон
 
-
+[Урок 19](https://olegzdrav.github.io/lesson_19/ "моя домашка 19") - Анимация
