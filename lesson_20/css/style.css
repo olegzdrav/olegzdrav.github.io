@@ -1,0 +1,54 @@
+body {
+	margin: 0;
+	box-sizing: border-box;
+	-webkit-animation-timing-function: ease-in-out;
+	-o-animation-timing-function: ease-in-out;
+	animation-timing-function: ease-in-out;
+}
+
+
+@keyframes move {
+from {
+	margin-left: 620px;
+}
+
+to {
+	margin-left: 900px;
+}
+}
+
+@keyframes bg-color {
+from {
+color:#4C514A; 
+}
+50%{
+	color:#DBD7D2;
+}
+to {
+	color: #7D8471; 
+}
+}
+.section{
+	min-height: 100vh;
+	text-align: center;
+	width: 100%;
+	display: table;
+	
+	
+}
+.wrap-block{
+	display: table-cell;
+	vertical-align: middle;
+	color: #fff;
+
+}
+.p1{
+	margin-left: 60px;
+color:#4C514A;
+animation: move 1s linear forwards, bg-color 1s linear forwards;
+animation-timing-function: cubic-bezier(.13,.92,.91,.33);
+animation-delay: 2s;
+width:200px;
+
+}
+
