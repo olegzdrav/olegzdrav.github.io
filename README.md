@@ -53,4 +53,6 @@
 
 [Урок 20](https://olegzdrav.github.io/lesson_20/ "моя домашка 20") - Видеофон
 
+[Урок 22](https://olegzdrav.github.io/lesson_22_0/ "моя домашка 22") - Яндекс-карты
+
 [Урок 21](https://olegzdrav.github.io/lesson_21/ "моя домашка 21") - Паралакс
