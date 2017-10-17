@@ -1,0 +1,78 @@
+.container {
+	width: 1900px;
+	height: 470px;
+	padding: 0;
+}
+.contact {
+	position: absolute;
+	height: 430px;
+	width: 380px;
+	background-color: #c60b0b;
+	text-align: center;
+	color: #fff;
+	padding-top: 40px;
+	margin-left: 25%;
+}
+h1 {
+	padding-bottom: 30px;
+	font-weight: 100;
+}
+p {
+	padding-bottom: 20px;
+}
+a {
+	color: #fff;
+	text-decoration: underline;
+}
+
+
+.logo, .text-logo, h2, .footer-contact {
+	display: inline-block;
+	text-align: center;
+	vertical-align: middle;
+}
+
+.logo {
+ margin-left: 20%; 
+	font-size: 15px;
+	font-weight: bold;
+	}
+	.text-logo {
+		padding-top: 35px;
+		padding-left: 20px;
+		text-align: left;
+	}
+
+h2 {
+	margin-left: 160px;
+	font-size: 15px;
+}
+.footer-contact {
+	margin-left: 100px;
+}
+.phone {
+	font-size: 20px;
+	font-weight: bold;
+	margin-bottom: 15px;
+}
+
+.adresse {
+	font-size: 14px;
+	font-weight: bold;
+	text-align: right;
+}
+@media (max-width: 990px){
+	.panel-title {
+		font-size: 14px;
+			}
+}
+@media (max-width: 667px){
+ .panel-title {
+ 	height: 50px;
+ }
+}
+@media (max-width: 330px){
+ .panel-title {
+ 	height: 60px;
+ }
+}
