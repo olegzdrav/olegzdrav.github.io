@@ -21,25 +21,27 @@
 
 [Урок 13](https://olegzdrav.github.io/lesson_13/ "моя домашка 13") - Работа с PerfectPixel
 
-[Урок 14](https://olegzdrav.github.io/lesson_14/ "моя домашка 14") - Практика-1 верстка шапки сайта
+[Урок 14](https://olegzdrav.github.io/lesson_14/ "моя домашка Пр_1") - Практика-1 верстка шапки сайта
 
 [Урок 14_1](https://olegzdrav.github.io/lesson_14_1/ "моя домашка 14_1") - Работа со шрифтами
 
-[Урок 14_2](https://olegzdrav.github.io/lesson_14_2/ "моя домашка 14_2") - Практика-2 подключ шрифтов, верстка main
+[Урок 14_2](https://olegzdrav.github.io/lesson_14_2/ "моя домашка Пр_2") - Практика-2 подключ шрифтов, верстка main
 
 [Урок 15](https://olegzdrav.github.io/lesson_15/ "моя домашка 15") - Псевдоклассы и псевдоэлементы
 
-[Урок 15_3](https://olegzdrav.github.io/lesson15_3/ "моя домашка 15_3") - Практика-3 Адаптивность, эффекты при наведении
+[Урок 15_3](https://olegzdrav.github.io/lesson15_3/ "моя домашка Пр_3") - Практика-3 Адаптивность, эффекты при наведении
 
-[Урок 15_4](https://olegzdrav.github.io/lesson_15_4/ "моя домашка 15_4") - Практика-4 Слайдер Slik адаптивность
+[Урок 15_4](https://olegzdrav.github.io/lesson_15_4/ "моя домашка Пр_4") - Практика-4 Слайдер Slik адаптивность
 
-[Урок 15_5](https://olegzdrav.github.io/lesson_15_5/ "моя домашка 15_5") - Практика-5 Всплывающее окно
+[Урок 15_5](https://olegzdrav.github.io/lesson_15_5/ "моя домашка Пр_5") - Практика-5 Всплывающее окно
 
 [Урок 16](https://olegzdrav.github.io/lesson_16/ "моя домашка 16") - Слайдер на fotorama
 
-[Урок 15_6](https://olegzdrav.github.io/lesson_22/ "моя домашка 15_5") - Практика-6 Блок с ценами
+[Урок 15_6](https://olegzdrav.github.io/lesson_22/ "моя домашка Пр_6") - Практика-6 Блок с ценами
 
 [Урок 17](https://olegzdrav.github.io/lesson_17/ "моя домашка 17") - Всплывающие окна
+
+[Урок 17_7](https://olegzdrav.github.io/practic_7/ "моя домашка Пр_7") - Практика-7 Отзывы
 
 [Урок 18_1](https://olegzdrav.github.io/lesson_18_1/ "моя домашка 18_1") - Табы
 
