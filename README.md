@@ -11,7 +11,7 @@
 
 [Урок 8](https://olegzdrav.github.io/lesson_8/ "моя домашка 8") - Ускорение верстки в разы.
 
-[Урок 9](https://olegzdrav.github.io/lesson_9/ "моя домашка 9") - Верстка при помощи bootstrap.
+[Урок 9](https://olegzdrav.github.io/lesson_9_FIN/ "моя домашка 9") - Верстка при помощи bootstrap.
 
 [Урок 10](https://olegzdrav.github.io/lesson_10/ "моя домашка 10") - Препроцессор LESS для CSS.
 
