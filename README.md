@@ -37,6 +37,8 @@
 
 [Урок 16](https://olegzdrav.github.io/lesson_16/ "моя домашка 16") - Слайдер на fotorama
 
+[Урок 15_6](https://olegzdrav.github.io/lesson_22/ "моя домашка 15_5") - Практика-6 Блок с ценами
+
 [Урок 17](https://olegzdrav.github.io/lesson_17/ "моя домашка 17") - Всплывающие окна
 
 [Урок 18_1](https://olegzdrav.github.io/lesson_18_1/ "моя домашка 18_1") - Табы
