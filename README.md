@@ -39,9 +39,9 @@
 
 [Урок 15_6](https://olegzdrav.github.io/lesson_22/ "моя домашка Пр_6") - Практика-6 Блок с ценами
 
-[Урок 17](https://olegzdrav.github.io/lesson_17/ "моя домашка 17") - Всплывающие окна
+[Урок 17](https_FIN://olegzdrav.github.io/lesson_17/ "моя домашка 17") - Всплывающие окна
 
-[Урок 17_7](https://olegzdrav.github.io/practic_7/ "моя домашка Пр_7") - Практика-7 Отзывы
+[Урок 17_7](https://olegzdrav.github.io/practic_7_FIN/ "моя домашка Пр_7") - Практика-7 Отзывы
 
 [Урок 18_1](https://olegzdrav.github.io/lesson_18_1/ "моя домашка 18_1") - Табы
 
