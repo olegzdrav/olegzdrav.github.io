@@ -77,9 +77,7 @@ padding-left: 0px;
 }
 @media (max-width: 667px){
 	.contact {
-				width: 180px;
-		height: 380px;
-		margin-left: 5%;
+			display: none;
 	}
  .footer-contact {
  	padding: 80px;
