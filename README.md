@@ -58,3 +58,5 @@
 [Урок 21](https://olegzdrav.github.io/lesson_21/ "моя домашка 21") - Паралакс
 
 [Урок 17_8](https://olegzdrav.github.io/practic_8/ "моя домашка Пр_8") - Практика-8 доделываем отзывы
+
+[Урок 17_9](https://olegzdrav.github.io/practic_9/ "моя домашка Пр_9") - Практика-9 Все включено 
