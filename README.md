@@ -49,7 +49,7 @@
 
 [Урок 19](https://olegzdrav.github.io/lesson_19/ "моя домашка 19") - Анимация аккордеона
 
-[Урок 19_2](https://olegzdrav.github.io/lesson_19_2/ "моя домашка 19_2") - Анимация формы табс
+[Урок 19_2](https://olegzdrav.github.io/tab-animation/ "моя домашка 19_2") - Анимация формы табс
 
 [Урок 20](https://olegzdrav.github.io/lesson_20/ "моя домашка 20") - Видеофон
 
