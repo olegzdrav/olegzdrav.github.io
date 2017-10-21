@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Табы </title>
+	<link rel="stylesheet" href="css/bootstrap.css">
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="css/animate.css">
+	
+</head>
+<body>
+	<div class="container">
+		<main class="main">
+			
+      
+        <div class="main-block">  
+
+		
+  <!-- Nav tabs -->
+      <ul class="nav nav-tabs" >
+        <li   class="active">
+        	<a href="#home"   data-toggle="tab">Вход </a></li>
+
+        <li class="li1" ><a href="#profile" aria-controls="profile"  data-toggle="tab">Регистрация</a></li>
+        
+      </ul>
+
+      <!-- Tab panes -->
+      <div class="tab-content">
+
+        <div role="tabpanel" class="tab-pane active" id="home">
+        <div class="main-form">
+           <form action="#">
+            <input class="main-form-input " type="text" placeholder="Ваше имя" >
+            
+            <input class="main-form-input" type="text" placeholder="Пароль">
+            </form>
+            <small>Забыли пароль?</small>
+             <p class="check1 "><input type="checkbox" name="a" >Напомнить мне </p> 	
+            <div class="box1  ">		<button class="btn button1" >Войти</button> 	</div>
+          
+        </div>
+      </div>
+
+        <div role="tabpanel" class="tab-pane" id="profile">
+        <div class="main-form">
+             <form action="#">
+            
+            <input class="main-form-input " type="text" placeholder="Ваше имя" >
+            
+            <input class="main-form-input " type="text" placeholder="Пароль">
+            </form>
+            <small  >Забыли пароль?</small>
+            <p class="check1 "><input  type="checkbox" name="a" > Напомнить мне </p>
+           <div class="box1  "> <button class="btn button1 wow" >Войти</button> 	</div>
+          
+        </div>
+      </div>
+        
+      </div>
+    
+    </div>
+      
+ 
+  </main>
+</div>
+			   
+
+
+ <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+ <script src=""></script>
+ <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+ <script src="js/wow.min.js"> </script>
+ <script>
+ 	var wow = new WOW;
+ 	wow.init();
+</script>
+
+</body>
+</html>

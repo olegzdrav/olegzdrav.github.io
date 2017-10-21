@@ -1,0 +1,171 @@
+body {
+  
+ background: url(..//img/bg2.jpg) no-repeat ;
+ background-size: cover;
+ height: 1000px;
+}
+
+input{
+	background-color:  #1e1d1d;
+	font-size: 20px;
+	color:#ffffff;
+}
+.active{
+	background-color:  #03a5da;
+	border: none;
+	height: 50px;
+}
+.home1{
+	background-color: #03a5da ;
+}
+
+.main-block{
+	margin-left: 25%;
+	margin-top: 15%;
+}
+.main-form {
+  padding: 4rem 5rem;
+  background-color: #ffffff;
+  text-align: center;
+  border: 30px solid #03a5da;
+}
+
+.main-form-input {
+		display: block;
+  margin: 2rem 0;
+  border: 1px solid #dddddd;
+  width: 100%;
+  border-radius: 5px;
+  padding: 1.5rem;
+}
+
+small {
+	text-align: left;
+  display: block;
+  margin-top: 1.5rem;
+  font-weight:700;
+  	color: #c51f03;
+}
+
+
+.check1{
+	text-align: left;
+	margin-top: 45px;
+	animation-iteration-count: infinite;
+}
+.button1{
+	background-image: url(..//img/btn-2.png);
+	weight:200px;
+	margin-left: 480px;
+	margin-top: -12px;
+	width: 130px;
+	height: 40px;
+	color: #ffffff;
+}
+.nav-tabs {
+	border: none;
+	color: #fff;
+}
+ li.active{
+ 	background-color: #03a0d3;
+ }
+ 
+.tab-content {
+	background-color: #03a0d3;
+	width: 628px;
+	height: 405px;
+animation-name: move; 
+		animation-timing-function: cubic-bezier(.93,.92,.51,.93);
+	/* задержка animation-delay: 1s;*/
+	animation-iteration-count: 2;
+	animation: move 1.5s linear forwards;
+	animation-fill-mode: backwards;
+}
+a {
+	height: 50px;
+}
+.in {
+	width: 628px;
+	height: 405px;
+	border: 20px solid #03a0d3;
+	border-radius: 20px;
+	background-color: #000;
+}
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:focus, .nav-tabs>li.active>a:hover{ 
+	background-color: #03a0d3 ;
+	border: none;
+	width: 100px;
+	color: #fff;
+	font-size: 20px;
+	border:none;
+ width:140px;
+ }
+
+.nav-tabs>li{
+	    font-size: 20px;
+    margin-right: 10px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    line-height: 1.42857143;
+    text-align: center;
+    border: 1px solid transparent;
+    border-radius: 4px 4px 0 0;
+    background-color: #fff;
+    border:none;
+    width:140px;
+
+}
+
+@keyframes move {
+from {
+	margin-left: 20px;
+}
+
+to {
+	margin-left: 300px;
+}
+}
+
+@keyframes bg-color {
+from {
+	background-color: blue; 
+}
+
+to {
+	background-color: green; 
+}
+}
+.box1 {
+	
+	animation-name: move; 
+		animation-timing-function: cubic-bezier(.93,.92,.51,.93);
+	/* задержка animation-delay: 1s;*/
+	animation-iteration-count: 2;
+	animation: move 1.5s linear forwards;
+	animation-fill-mode: backwards;
+}
+.wow{
+		animation-iteration-count: infinite;
+}
+
+@media (max-width: 1200px){
+	.panel-title {
+		font-size: 16px;
+	}
+
+}
+@media (max-width: 990px){
+	.panel-title {
+		font-size: 14px;
+			}
+}
+@media (max-width: 667px){
+ .panel-title {
+ 	height: 50px;
+ }
+}
+@media (max-width: 330px){
+ .panel-title {
+ 	height: 60px;
+ }
+}
